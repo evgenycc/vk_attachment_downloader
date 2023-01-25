@@ -1,0 +1,4 @@
+vk-api
+requests
+simple-term-menu
+colorama
